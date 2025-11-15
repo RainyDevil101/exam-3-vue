@@ -19,3 +19,6 @@ npm run dev
 ```bash
 npm run build
 ```
+
+## Desarrollado por
+Alexis Herrera
